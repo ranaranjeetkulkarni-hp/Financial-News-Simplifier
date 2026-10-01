@@ -1,0 +1,6 @@
+{
+  "name": "FinNews AI – Financial News Simplifier",
+  "description": "AI-powered financial news simplifier that turns complex financial terminology and market reports into clear, jargon-free insights using NewsAPI and Groq Llama 3.3 70B.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
