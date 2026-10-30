@@ -286,3 +286,5 @@ To deploy FinNews AI to AWS:
 ## 16. Disclaimer
 
 *FinNews AI provides simplified financial news for informational and educational purposes only. It does not provide personalized financial, investment, legal, or tax advice.*
+## 17. Live Project Link
+https://ai.studio/apps/762c6866-0596-44ca-8b1e-43d7ea80eb15
